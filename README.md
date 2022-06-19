@@ -2,8 +2,8 @@
 
 ### About
 
--  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
--  **Languages :** JavaScript, React
+-  **Learning :** Mobile Development :zap: | Open-Source :fire:	
+-  **Languages :** Kotlin & Swift
 -  **Hobbies :** read, football & Sim-Racing :book: :soccer: 🚗 
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** Searching....
