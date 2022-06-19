@@ -4,6 +4,6 @@
 
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** JavaScript, React
--  **Hobbies :** read, football & Sim-Racing :book: :soccer: :wheel: 
+-  **Hobbies :** read, football & Sim-Racing :book: :soccer: 🚗 
 -  **Fact :** First solve the problem, then write the code :heart: 
 -  **Organization :** Searching....
