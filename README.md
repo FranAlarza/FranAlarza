@@ -46,15 +46,6 @@ Mobile developer passionate about crafting great native apps for iOS and Android
 
 ---
 
-### 📈 Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=FranAlarza&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranAlarza&layout=compact&hide_border=true&langs_count=6" height="160" />
-</p>
-
----
-
 ### 🎯 Outside the code
 
 When I'm not shipping apps, you'll find me:
@@ -69,5 +60,4 @@ When I'm not shipping apps, you'll find me:
 
 [![Website](https://img.shields.io/badge/Web-franalarza.dev-000000?style=flat-square&logo=safari&logoColor=white)](https://franalarza.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-FranAlarza-181717?style=flat-square&logo=github)](https://github.com/FranAlarza)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fran_Alarza-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/FranAlarza)
-[![Twitter](https://img.shields.io/badge/Twitter-@FranAlarza-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/FranAlarza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fran_Alarza-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/francisco-javier-alarza-sanchez/)
